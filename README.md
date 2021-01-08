@@ -1,4 +1,4 @@
-# What is an Closure?
+# What is a Closure?
 
 ## A Closure is an inner function that has access to the scope of an enclosing function
 
